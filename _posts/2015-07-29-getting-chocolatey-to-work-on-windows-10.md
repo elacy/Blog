@@ -10,7 +10,7 @@ tags:
 ---
 Windows 10 was released today and the first thing I did when I got it installed it try to get chocolatey working. Wasn't as easy as I'd hoped but it still integrates really nicely with Window's new packaging system.
 
-OneGet is the new package manager for Windows 10. It's similar to apt-get, it treats Chocolatey is sort of a repo but also a plugin.
+OneGet is the new package manager for Windows 10. It's similar to apt-get, it treats Chocolatey is sort of a repo but also a plugin.<!-- more -->
 
 To get started open powershell with Admin permissions and run: `Set-ExecutionPolicy RemoteSigned`  
 You'll need it to ensure that Choclately actually installs the packages and doesn't simply just fail without a warning.

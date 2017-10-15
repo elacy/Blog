@@ -18,8 +18,7 @@ So while this is about copyright today, it reduces our internet freedom, future 
 Today Sean Sherlock, the minister responsible for it's introduction called for those opposed to copyright law to call off the dogs. I'm opposed to copyright law and the most I've ever done in relation to Irish SOPA is go to a protest. Maybe he could clarify what he meant?
 
 He mentioned that people shouldn't refer to this as the Irish version of SOPA, I don't understand his point of view, SOPA = Stop Online Piracy Act, the Irish law is designed to stop online piracy by blocking websites, so is SOPA. What exactly makes these laws different except their wording?
-
-<!--more-->
+<!-- more -->
 
 He also says if we don't call off the dogs the public consultation won't lead to any changes to the law. This is somewhat hilarious, first of all you should have a public consultation before you pass the law, secondly whether the information gained from a public consultation is used shouldn't be conditional on the whole population of Ireland treating you in a polite manner (this probably wasn't what he meant but he was vague enough for me to interpret it as such) and thirdly no one aside from corporations like Google who have expressed their concern about this law should have any hope in gaining anything from a public consultation.
 

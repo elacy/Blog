@@ -13,7 +13,7 @@ tags:
 ---
 An important part of monetizing your work is creating a situation where people are willing to give you money.
 
-One of the ways, in desktop software, to create that situation is to prevent your software from being used or used fully without giving you (enough) money.
+One of the ways, in desktop software, to create that situation is to prevent your software from being used or used fully without giving you (enough) money.<!-- more -->
 
 *This blog post is going to break down how that works into it's different parts and then provide you with some sample implementations of copy protection along with their weaknesses.*
 
@@ -25,8 +25,6 @@ Here are the some types of restrictions:
   * Users cannot access the source code
 
 Here are some ways you can tell if the user is a valid user
-
-<!--more-->
 
   * License Key: String(s) that you might send them in an email or be attached to your physical product
   * License File: Probably something you email to them, they will have to browse to the file location

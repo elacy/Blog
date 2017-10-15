@@ -8,7 +8,7 @@ categories:
   <a href="/assets/images/2012/03/censorship.jpg"><img class="aligncenter  wp-image-101 img-thumbnail img-responsive" title="censorship" src="/assets/images/2012/03/censorship.jpg" alt="" width="540" height="481" /></a>
 </p>
 
-It seems like a large number of western countries have plans in the works to heavily reduce Internet freedom.
+It seems like a large number of western countries have plans in the works to heavily reduce Internet freedom.<!-- more -->
 
 Recently there was the US with [SOPA][1] and [ProtectIP][2].  [ACTA][3] is on it's way and it's international, The [Netherlands][4] have blocked the pirate bay as well as sites that attempt to offer proxies, those are just some of the countries I've seen recently introducing Internet filtering. And it's scary, but what really worries me is when in a country like France, this kind of thing comes out : [http://lubbockonline.com/..terror-websites..][5]
 

@@ -3,12 +3,15 @@ title: Serverless on AWS
 layout: post
 categories:
   - Technology
+tags:
+  - Serverless
+  - AWS
 ---
 ![](/assets/images/2017/AmazonWebservices_Logo.svg "Amazon Web Services")
 
 I've been building a completely serverless application in AWS over the past while and I thought I'd share some of the things I learned.
 
-This is going to be written from the perspective of a for-profit business
+This is going to be written from the perspective of a for-profit business<!-- more -->
 
 ## Why serverless?
 The cost of building and maintaining any application is huge and is increasing at a huge rate, we just aren't educating people in IT fast enough to keep up with demand. Serverless allows you to delegate a large portion of the complexity to a third party. If managed correctly this can reduce your development time dramatically. I'll go through some of the things that you need to take into account.

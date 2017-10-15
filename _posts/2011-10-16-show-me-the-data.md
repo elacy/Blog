@@ -7,7 +7,7 @@ categories:
 ---
 [![](/assets/images/2011/10/datalove-heart1.png "datalove-heart1")](http://datalove.me/ "Data Love")
 
-Without the facts and figures it’s impossible for governments to make decisions, like who to tax and at what rate. For example, if there is a mandate for the government to tax the wealthy at a higher rate the government have to respond to that mandate by either taxing the wealthy or by expalining why that wouldn’t deliver what people are looking for, quality of life.
+Without the facts and figures it’s impossible for governments to make decisions, like who to tax and at what rate. For example, if there is a mandate for the government to tax the wealthy at a higher rate the government have to respond to that mandate by either taxing the wealthy or by expalining why that wouldn’t deliver what people are looking for, quality of life.<!-- more -->
 
 They can find out which response to give based on information from the tax office. If there are a lot of wealthy people you may be able to get a lot of revenue into the government by taxing even a small percentage more. Then again previous taxes of that nature may cause their contribution to the productivity of the whole society to reduce causing the middle and lower incomes to also reduce.
 

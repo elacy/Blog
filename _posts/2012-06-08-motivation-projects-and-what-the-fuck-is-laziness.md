@@ -11,7 +11,7 @@ tags:
   - Reading
 ---
 I have a technical book that will help me in my career sitting on my book shelf gathering dust. I was able to get through a similar book before, one chapter a day but for some reason I find this book far more intimidating.  
-I imagine that once I actually pick it up for the second time it will be a lot easier given I know more about the subject than I did when I first picked it up, but I’m lazy.
+I imagine that once I actually pick it up for the second time it will be a lot easier given I know more about the subject than I did when I first picked it up, but I’m lazy.<!-- more -->
 
 I don’t know what laziness is but for some reason that’s what I am. I feel lazy, meaning that instead of doing what I need to do to advance my career and also something I want to do because to me this subject is fascinating, I’m going to spend an evening starting a new blog, talking with friends and watching an episode of Hit & Miss (I’ll talk about this later).
 

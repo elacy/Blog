@@ -9,8 +9,7 @@ tags:
 ---
 ### Links in emails you send me should log me in
 
-As long as the only security you provide to reset my password is my email address stop sending me emails with links that don't automatically log me in. Particularly when it comes to “click to unsubscribe” and “verify your email” links. They make me think your application is made by people who hate me.
-<!--more-->
+As long as the only security you provide to reset my password is my email address stop sending me emails with links that don't automatically log me in. Particularly when it comes to “click to unsubscribe” and “verify your email” links. They make me think your application is made by people who hate me. <!-- more -->
 
 ### When I forget my password don't send me a new one
 

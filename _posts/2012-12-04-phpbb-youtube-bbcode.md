@@ -9,7 +9,7 @@ tags:
 
 ![](/assets/images/2012/12/youtube-stacked_google_200px.png)
 
-The standard response to how do I create a YouTube BBCode is 
+The standard response to how do I create a YouTube BBCode is <!-- more -->
 
 Use the following BBCode usage:
 
@@ -28,8 +28,6 @@ Then use the following HTML Replacement:
 Of course when you try this you will run into a problem. When your users attempt to try it with a YouTube url they copy pasted from YouTube they may be using https or there may be extra query parameters which will mean that the YouTube simply won't work.
 
 A quick change will allow you to support that issue and as an added bonus all YouTube references will automatically use https
-
-<!--more-->
 
 BBCode usage:
 

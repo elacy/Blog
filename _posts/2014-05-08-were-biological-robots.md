@@ -6,9 +6,7 @@ categories:
 ---
 The brain is where decisions are made, everything that makes up you is contained within it. Alterations to the brain such as damage to cells or changing the amount of chemicals can alter how you make decisions.
 
-This video shows some practical experiments that show that you can alter how someone judges the actions of another.
-
-
+This video shows some practical experiments that show that you can alter how someone judges the actions of another.<!-- more -->
 
 It's a somewhat terrifying thought and it's hard to “get your head around” because we are talking about our own existence, our malleable, temporary existence.
 

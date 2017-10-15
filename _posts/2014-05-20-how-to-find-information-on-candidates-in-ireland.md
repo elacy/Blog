@@ -4,7 +4,7 @@ layout: post
 categories:
   - Politics
 ---
-So yesterday I talked about how hard it is to get the information on candidates running for election you need to make an informed vote. In this post I'd like to describe some of the current methods you can use to get information on which candidates are running and if they have been previously elected, what they have done when in power.
+So yesterday I talked about how hard it is to get the information on candidates running for election you need to make an informed vote. In this post I'd like to describe some of the current methods you can use to get information on which candidates are running and if they have been previously elected, what they have done when in power.<!-- more -->
 
 1. [ElectionsIreland.org][1]
 

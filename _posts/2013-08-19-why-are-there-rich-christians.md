@@ -22,7 +22,7 @@ Jesus said how hard it is for a Rich man to enter heaven:
 
 Let's look at it in context, why did he say that? What happened right before?
 
-<!--more-->
+<!-- more -->
 
 > Mark 10
 > 

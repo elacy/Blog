@@ -14,7 +14,7 @@ What I'd like to show you is what people said on twitter about her.
 
 ![][3]
 
-<!--more-->
+<!-- more -->
 
 ![][4]
 

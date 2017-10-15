@@ -9,7 +9,7 @@ tags:
   - Pomodoro
   - Kanban
 ---
-I had been trying to find a solution to the problem of how can I feel productive if I don't know where I've spent my time? I would get to the end of a day and wonder, what did it amount to? 
+I had been trying to find a solution to the problem of how can I feel productive if I don't know where I've spent my time? I would get to the end of a day and wonder, what did it amount to? <!-- more -->
 
 That's when I started writing down every task I did that day, it's beautifully simple and the benefit was clear on the first day: I could see I was doing quite a few different tasks in one day. That lead me to my second problem: how can I measure where I spend my time when I regularly switch between tasks?
 

@@ -18,8 +18,7 @@ I'm not an expert in economics, I've been trying to understand the situation as 
 I watched a documentary on Enron, a company that had a culture of risk taking, that promoted those who were driven to make money, thus who had the hunger for more power, those who knew how to play the game.
 
 What I took away from that film is that the problem isn't an economic system, it's a culture that gives power to those who desire power
-
-<!--more-->
+<!-- more -->
 
 The people who have power in your country are those that have fought for that power, that have competed for it and have won that competition, this is the system that we rely on in order to allow us to do everything from drive cars, go on holidays and buy houses
 

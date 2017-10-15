@@ -8,7 +8,7 @@ tags:
   - Digital Health
 ---
 
-Public health is a barrier to economic growth, so it is an essential part of a successful strategy for a nation. When we look internationally we can all see the disparity between how capable different nations are at handling this global challenge. It’s something worth thinking about.
+Public health is a barrier to economic growth, so it is an essential part of a successful strategy for a nation. When we look internationally we can all see the disparity between how capable different nations are at handling this global challenge. It’s something worth thinking about.<!-- more -->
 
 It has become clear over many centuries of human cooperation that while groups of larger numbers of humans bring with it more complexity, if our systems can handle this level of complexity then our capacity to elevate our collective station increases. It’s no coincidence that the most potent forces both on the geopolitical stage but also in terms of scientific innovation tend to be the most effective cooperatives between huge populations of people.
 

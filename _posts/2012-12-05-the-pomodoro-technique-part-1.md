@@ -10,7 +10,7 @@ tags:
 ---
 [<img class="aligncenter size-full wp-image-130 img-thumbnail img-responsive" title="Pomodoro-timer" src="/assets/images/2012/12/Pomodoro-timer.png" alt="" width="225" height="225" />][1]
 
-For those of you who have me in your RSS, I'm sure your surprised to see my blog reappear. I've taken on a new challenge to start talking about any work I do, I hope it will enhance my career and encourage me to do more of it. The problem as per usual is that I don't have the motivation to do much after work and the more I consider how to resolve such an issue the more I find myself becoming anxious. So in a new effort to combat that I've started trying the Pomodoro Technique.
+For those of you who have me in your RSS, I'm sure your surprised to see my blog reappear. I've taken on a new challenge to start talking about any work I do, I hope it will enhance my career and encourage me to do more of it. The problem as per usual is that I don't have the motivation to do much after work and the more I consider how to resolve such an issue the more I find myself becoming anxious. So in a new effort to combat that I've started trying the Pomodoro Technique.<!-- more -->
 
 The basic concept is this:
 

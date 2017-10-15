@@ -6,7 +6,7 @@ categories:
 ---
 ![][1]
 
-So if you are looking at this post you are probably wondering the same thing I was, who should I vote for in the upcoming election. We really should have started looking into this earlier, maybe next time. It's actually a lot of work to research each of these candidates and I really can't find an easy way of finding out information about them so I'm probably going to prioritise candidates that give out the most information on the internet.
+So if you are looking at this post you are probably wondering the same thing I was, who should I vote for in the upcoming election. We really should have started looking into this earlier, maybe next time. It's actually a lot of work to research each of these candidates and I really can't find an easy way of finding out information about them so I'm probably going to prioritise candidates that give out the most information on the internet.<!-- more -->
 
 This post reflects my experience of looking for a candidate and my political views, it's not intended to be an unbiased guide to candidates, I may get some information wrong, I didn't try especially hard not to, if you find it useful, please take the time to say thank you in the comments. It will make my day :)
 
@@ -28,7 +28,7 @@ Here is a list of all the candidates running in the upcoming election, I took th
   * [Kieran Binchy ][18](Fine Gael)
   * [Paddy McCarta][19]n (Fine Gael)
 
-<!--more-->
+<!-- more -->
 
 ## <a name="Marcin"></a>Marcin Czechowicz
 

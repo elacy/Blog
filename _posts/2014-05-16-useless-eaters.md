@@ -6,7 +6,7 @@ categories:
 ---
 ![][1]
 
-I think the new self service machines in Tesco are great, they are quick, I'm not embarrassed about giving them a pile of random change or paying for whatever the random change at the bottom of my bag doesn't cover with my credit card and I think it's rather cool that a human doesn't need to do that anymore, I doubt it's a fun job.
+I think the new self service machines in Tesco are great, they are quick, I'm not embarrassed about giving them a pile of random change or paying for whatever the random change at the bottom of my bag doesn't cover with my credit card and I think it's rather cool that a human doesn't need to do that anymore, I doubt it's a fun job.<!-- more -->
 
 Where the problem begins is that the human that previously filled this role must now figure out what role they will fill in the future because in our society they have to fill a role. If you don't fill a role then you lose social and economic standing.
 

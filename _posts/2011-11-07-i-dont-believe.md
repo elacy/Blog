@@ -17,8 +17,7 @@ tags:
 Personally I'm a big fan of the Santa Clause myth. At an early age it's hard to imagine that your parents can be wrong let alone intentionally mislead you. Learning the fact that Santa Clause doesn't exist is an important part of developing an awareness that authority figures lie and their lies are almost always self serving.
 
 The loss of Santa Clause is important because it destroys magical thinking. You may find it cute that when your child wishes upon a star, but you don't want them to be vulnerable to manipulation.
-
-<!--more-->
+<!-- more -->
 
 Now granted that isn't why most parents teach their kids about Santa Clause, I tend to hear from them that it would be cruel not to include them. Also if your kid knows that Santa doesn't exist they will likely tell their friends which will often get other parents angry with you.
 

@@ -8,7 +8,7 @@ categories:
 
 It can be extremely difficult to be proud of being a transgender person. People have been telling me for a long time that transgender people are freaks, that we are delusional and that we shouldn't be accepted because it might encourage others to do the same.
 
-When you receive a lot of messages like that you can internalise them and almost believe them about yourself, and even if you don't believe them, you might believe that the people around you believe them and sometimes, you're right.
+When you receive a lot of messages like that you can internalise them and almost believe them about yourself, and even if you don't believe them, you might believe that the people around you believe them and sometimes, you're right.<!-- more -->
 
 I've had people throw things at me, like someone threw a newspaper that was on fire, another person through a leg of a chair, kids have thrown stones. I was at a chipper when someone warned my boyfriend who was talking to someone else from the trans community that he wasn't actually talking to a woman. There is nothing quite like being outed in public. Friends have been assaulted, chased, refused entry to bars et al. I'm actually doing pretty well relatively speaking, I have a good job for one thing.
 

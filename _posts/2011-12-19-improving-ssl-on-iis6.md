@@ -17,8 +17,7 @@ if you put the following into a reg file and run it it should remove some of the
 Update 1 : Go to <http://support.microsoft.com/kb/948963> to enable AES 256 (requires restart)
 
 Update 2: If you install the above update or turn on FIPs compliance in your local security policy this will make you vulnerable to the beast attack.
-
-<!--more-->
+<!-- more -->
 
 > REGEDIT4  
 > [HKEY\_LOCAL\_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\DES 56/56]  

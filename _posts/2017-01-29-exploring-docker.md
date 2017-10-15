@@ -10,7 +10,7 @@ tags:
 
 A friend of mine put me onto docker a few weeks ago and since then I’ve become rather obsessed with all things docker. I’ve gone from tinkering around with containers to recommending my company look into a strategy that will fully containerize our asp.net application.
 
-Let me wind back a bit and explain why.
+Let me wind back a bit and explain why.<!-- more -->
 
 First of all a docker container is like a virtual machine except it shares the kernel with the host system so less overhead. Each docker instance is defined by a Dockerfile which inherits from another docker image and defines what makes that docker image unique.
 

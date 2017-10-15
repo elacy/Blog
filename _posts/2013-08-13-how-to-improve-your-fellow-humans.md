@@ -6,7 +6,7 @@ categories:
 ---
 I have a way of improving people. If you want to improve people then you might find it useful. However you are going have to bear with me, because what I’m really saying is I believe I have a method of building successful mutually beneficial relationships with people that you would like to improve. So what I’m going to have to do first is convince you that building a relationship is necessary for effective improvement.
 
-I’ll start by explaining the background to my thinking. I have a pattern of behaviour where I try to improve others. When I was a Christian I tried to convert people to Christianity, now that I no longer have supernatural beliefs I want to convert those with supernatural beliefs to a state of non-belief. I believe I do this so that I feel superior, so that I can validate and smooth rough edges from my own ways of thinking, and so that I don’t have to deal with the results of what are, from my point of view, bad ways of thinking.<!--more-->
+I’ll start by explaining the background to my thinking. I have a pattern of behaviour where I try to improve others. When I was a Christian I tried to convert people to Christianity, now that I no longer have supernatural beliefs I want to convert those with supernatural beliefs to a state of non-belief. I believe I do this so that I feel superior, so that I can validate and smooth rough edges from my own ways of thinking, and so that I don’t have to deal with the results of what are, from my point of view, bad ways of thinking.<!-- more -->
 
 It’s important to recognise that your motivation is unlikely to be pure. The first step in identifying your motivations is going to be separating how you feel from what you are thinking.
 

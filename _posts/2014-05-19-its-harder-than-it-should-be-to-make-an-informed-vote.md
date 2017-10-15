@@ -4,7 +4,7 @@ layout: post
 categories:
   - Politics
 ---
-This is the first election I've actually spent time researching the individual candidates before voting, there are 17 candidates so as you can imagine it took quite a long time, and even though I spent Friday Evening, most of Saturday and Sunday evening on it, I still made some mistakes which I found out once I sent and email to every candidate informing them that I had written and published the blog.
+This is the first election I've actually spent time researching the individual candidates before voting, there are 17 candidates so as you can imagine it took quite a long time, and even though I spent Friday Evening, most of Saturday and Sunday evening on it, I still made some mistakes which I found out once I sent and email to every candidate informing them that I had written and published the blog.<!-- more -->
 
 I don't have time to do this for the European election unfortunately and that's a problem a lot of people have we just don't have the time to research the candidates properly.
 

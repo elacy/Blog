@@ -11,9 +11,9 @@ tags:
 ---
 [Tipue](http://www.tipue.com/search/) is a browser based JavaScript site search that allows you to add search to your site without adding any server side code.
 
-What you would normally do with a third party search provider like [Google Custom Search Engine](https://cse.google.ie/cse/) or server side search software like [Solr](http://lucene.apache.org/solr/) you do with a small JavaScript file.
+What you would normally do with a third party search provider like [Google Custom Search Engine](https://cse.google.ie/cse/) or server side search software like [Solr](http://lucene.apache.org/solr/) you do with a small JavaScript file.<!-- more -->
 
-There are two major downsides: Tipue wants to get you up and running fast, so the HTML generation is built-in, if you aren't happy with the HTML it generates this might mean editing the JavaScript, and because it's a relatively small JavaScript file it doesn't carry the same querying and indexing functionality you'd expect from a dedicated search solution. <!--more-->
+There are two major downsides: Tipue wants to get you up and running fast, so the HTML generation is built-in, if you aren't happy with the HTML it generates this might mean editing the JavaScript, and because it's a relatively small JavaScript file it doesn't carry the same querying and indexing functionality you'd expect from a dedicated search solution.
 
 #### Querying
 
