@@ -10,4 +10,4 @@ phases:
       - echo "******** Building Jekyll site ********"
       - jekyll build
       - echo "******** Uploading to S3 ********"
-      - aws s3 sync _site/ s3://lacywebsite
+      - aws s3 sync _site/ s3://lacywebsite --delete
