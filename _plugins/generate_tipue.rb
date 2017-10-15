@@ -62,7 +62,11 @@ module Jekyll
 		safe true
 		
 		def generate(site)
-			target = File.open('assets/js/tipuesearch_content.js', 'w')
+		    js_folder = 'assets/js'
+		    content_file_name = 'tipuesearch_content.js'
+		    content_path = File.join(js_folder, content_file_name)
+
+			target = File.open(content_path, 'w')
 			target.puts('var tipuesearch = {"pages": [')
 			
 			all_but_last, last = site.posts.docs[0..-2], site.posts.docs.last
@@ -79,6 +83,8 @@ module Jekyll
 			
 			target.puts(']};')
 			target.close()
+
+			site.static_files << StaticFile.new(site, site.source, js_folder, content_file_name)
 		end
   end
 
