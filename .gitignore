@@ -4,3 +4,4 @@ _site
 tipuesearch_content.js
 Thumbs.db
 .idea
+Gemfile.lock

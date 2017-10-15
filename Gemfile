@@ -12,6 +12,7 @@ ruby RUBY_VERSION
 gem "jekyll", "3.4.0"
 gem "jekyll-paginate"
 gem "nokogiri"
+gem "jekyll-sitemap"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"

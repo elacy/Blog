@@ -5,12 +5,11 @@ meta_description: "Eva Lacy, Technology and Politics"
 markdown: kramdown
 highlighter: pygments
 logo: false
-baseurl: /
 paginate: 15
 exclude: [Gemfile, buildspec.yml, LICENSE.txt, README.md]
 domain_name: 'https://www.lacy.ie'
 google_analytics: 'UA-66109085-1'
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
 
 # Details for the RSS feed generator
 url:            'https://www.lacy.ie'
