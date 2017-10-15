@@ -1,7 +1,6 @@
 ---
 title: phpBB youtube BBCode
 layout: post
-permalink: /phpbb-youtube-bbcode
 categories:
   - Technology
 tags:

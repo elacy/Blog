@@ -1,7 +1,6 @@
 ---
 title: Motivation, projects and what the fuck is laziness
 layout: post
-permalink: /motivation-projects-and-what-the-fuck-is-laziness
 categories:
   - Politics
 tags:

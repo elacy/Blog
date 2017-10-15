@@ -1,7 +1,6 @@
 ---
 title: Improving SSL on IIS6
 layout: post
-permalink: /improving-ssl-on-iis6
 categories:
   - Technology
 tags:

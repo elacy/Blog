@@ -1,7 +1,6 @@
 ---
 title: Time Management with KanbanFlow
 layout: post
-permalink: /time-management-with-kanbanflow
 categories:
   - Technology
 tags:

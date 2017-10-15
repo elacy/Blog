@@ -1,7 +1,6 @@
 ---
 title: Tipue, the JavaScript Search
 layout: post
-permalink: /tipue-javascript-search
 categories:
   - Technology
 tags:

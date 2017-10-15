@@ -1,7 +1,6 @@
 ---
 title: The Pomodoro Technique Part 1
 layout: post
-permalink: /the-pomodoro-technique-part-1
 categories:
   - Technology
 tags:

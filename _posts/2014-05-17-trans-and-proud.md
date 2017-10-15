@@ -1,7 +1,6 @@
 ---
 title: Trans and Proud
 layout: post
-permalink: /trans-and-proud
 categories:
   - Politics
 ---

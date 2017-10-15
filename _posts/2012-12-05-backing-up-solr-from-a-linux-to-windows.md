@@ -1,7 +1,6 @@
 ---
 title: Backing up Solr from a Linux to Windows
 layout: post
-permalink: /backing-up-solr-from-a-linux-to-windows
 categories:
   - Technology
 tags:

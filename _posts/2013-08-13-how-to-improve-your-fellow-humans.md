@@ -1,7 +1,6 @@
 ---
 title: How to improve your fellow humans
 layout: post
-permalink: /how-to-improve-your-fellow-humans
 categories:
   - Politics
 ---

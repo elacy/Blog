@@ -1,7 +1,6 @@
 ---
 title: How to find information on candidates in Ireland
 layout: post
-permalink: /how-to-find-information-on-candidates-in-ireland
 categories:
   - Politics
 ---

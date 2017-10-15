@@ -1,7 +1,6 @@
 ---
 title: Show me the data
 layout: post
-permalink: /show-me-the-data
 categories:
   - Technology
   - Politics

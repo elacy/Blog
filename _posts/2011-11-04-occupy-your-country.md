@@ -1,7 +1,6 @@
 ---
 title: Occupy your country
 layout: post
-permalink: /occupy-your-country
 categories:
   - Politics
 tags:

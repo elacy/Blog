@@ -1,7 +1,6 @@
 ---
 title: The war on the internet
 layout: post
-permalink: /the-war-on-the-internet
 categories:
   - Political
 ---

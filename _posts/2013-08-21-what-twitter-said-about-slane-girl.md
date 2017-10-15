@@ -1,7 +1,6 @@
 ---
 title: What twitter said about SlaneGirl
 layout: post
-permalink: /what-twitter-said-about-slane-girl
 categories:
   - Politics
 ---

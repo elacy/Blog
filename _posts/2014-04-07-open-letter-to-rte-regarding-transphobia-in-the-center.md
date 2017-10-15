@@ -1,7 +1,6 @@
 ---
 title: Open letter to RTE regarding transphobia in “The Center”
 layout: post
-permalink: /open-letter-to-rte-regarding-transphobia-in-the-center
 categories:
   - Politics
 ---

@@ -1,7 +1,6 @@
 ---
 title: Sean Sherlock wants the dogs called off?
 layout: post
-permalink: /sean-sherlock-wants-the-dogs-called-off
 categories:
   - Politics
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Getting Chocolatey to work on Windows 10
 layout: post
-permalink: /getting-chocolatey-to-work-on-windows-10
 categories:
   - Technology
 tags:

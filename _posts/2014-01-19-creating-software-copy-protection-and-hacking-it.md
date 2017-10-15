@@ -1,7 +1,6 @@
 ---
 title: Creating software copy protection and hacking it
 layout: post
-permalink: /creating-software-copy-protection-and-hacking-it
 categories:
   - Technology
 tags:

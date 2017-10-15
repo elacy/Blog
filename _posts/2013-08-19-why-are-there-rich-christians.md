@@ -1,7 +1,6 @@
 ---
 title: Why are there rich Christians?
 layout: post
-permalink: /why-are-there-rich-christians
 categories:
   - Politics
 ---

@@ -1,7 +1,6 @@
 ---
 title: Challenging Global Health
 layout: post
-permalink: /challenging-global-health
 categories:
   - Technology
   - Politics

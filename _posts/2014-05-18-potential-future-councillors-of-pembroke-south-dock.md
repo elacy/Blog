@@ -1,7 +1,6 @@
 ---
 title: Potential future councillors of Pembroke South Dock
 layout: post
-permalink: /potential-future-councillors-of-pembroke-south-dock
 categories:
   - Politics
 ---

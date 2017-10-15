@@ -1,7 +1,6 @@
 ---
 title: Golden Dawn Representative attacks other MP
 layout: post
-permalink: /golden-dawn-representative-attacks-other-mp
 categories:
   - Politics
 ---

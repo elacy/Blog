@@ -1,7 +1,6 @@
 ---
 title: Power attracts the already corrupt
 layout: post
-permalink: /power-attracts-the-already-corrupt
 categories:
   - Politics
 tags:

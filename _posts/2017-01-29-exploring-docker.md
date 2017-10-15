@@ -1,7 +1,6 @@
 ---
 title: Exploring Docker
 layout: post
-permalink: /exploring-docker
 categories:
   - Technology
 tags:

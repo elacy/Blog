@@ -1,7 +1,6 @@
 ---
 title: Things to do regarding authentication in web apps
 layout: post
-permalink: /things-to-do-regarding-authentication-in-web-apps
 categories:
   - Technology
 tags:

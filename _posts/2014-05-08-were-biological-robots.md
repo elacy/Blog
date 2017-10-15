@@ -1,7 +1,6 @@
 ---
 title: We're biological robots
 layout: post
-permalink: /were-biological-robots
 categories:
   - Politics
 ---

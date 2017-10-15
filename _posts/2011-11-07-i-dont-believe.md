@@ -1,7 +1,6 @@
 ---
 title: I don't believe
 layout: post
-permalink: /i-dont-believe
 categories:
   - Politics
 tags:

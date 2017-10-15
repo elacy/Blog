@@ -1,7 +1,6 @@
 ---
 title: Useless Eaters
 layout: post
-permalink: /useless-eaters
 categories:
   - Politics
 ---

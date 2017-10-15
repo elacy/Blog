@@ -1,7 +1,6 @@
 ---
 title: It's harder than it should be to make an informed vote
 layout: post
-permalink: /its-harder-than-it-should-be-to-make-an-informed-vote
 categories:
   - Politics
 ---
