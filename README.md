@@ -1,52 +1,40 @@
-# Kasper
+# Lacy.ie
+This is my blog in all it's overengineered glory, heavily and hastily modified to suit my needs.
 
-> This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
+I'm keeping it public in case anyone might benefit from it, but it comes with a health warning, I've removed some of the customisations from it that were in Kasper just so I don't have to spend too much time on it.
+
+Check out the finished product at [lacy.ie](https://www.lacy.ie)
+
+This is all based on the kasper theme so take a look at their [readme](https://github.com/rosario/kasper/blob/master/README.md) for the details: 
 
 ## Installation
 
-    git clone https://github.com/rosario/kasper.git
-    cd kasper
-    gem install jekyll
-    gem install pygments.rb
+    git clone https://github.com/elacy/Blog.git
+    cd Blog
+    gem install bundle
+    bundle install
 
-## How to use it
+## What's bundle?
+It installs all the ruby gems which are libraries I use to generate the amazingness that is my blog!
 
-Build page and start local web server
+## How did you get search working on a statically generated site?
+I wrote a blog post on that, check it out [here](https://www.lacy.ie/technology/2015/08/16/tipue-search.html)
 
-    jekyll serve
+## What do you use for hosting
+I'm using aws for my hosting, here is how to set that up [alexbilbie.com/...jekyll-website/](https://alexbilbie.com/2016/12/codebuild-codepipeline-update-jekyll-website/)
 
-Build page into `_site` folder
+### Why would I want to do that
+It's free for a year and when it's not free it's pretty cheap for a highly available, low latency, scalable solution, I'll be honest you would probably be better off with wordpress, as would I but it's fun to set up.
 
-    jekyll build
+### Did you do anything different to the above guide
+Yes, I added the delete ability to s3 objects and I put a cloudfront in front of my S3 rather than exposing the S3 directly. I mostly wanted to do that to play with Cloudfront, caching this kind of content is kind of a nobrainer if you have the time to spend on it.
 
-## Kasper theme includes
+If you want to copy me then take a look at my buildspec.yml and add the permission to delete objects to the cloudbuild role.
 
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
-
-## Screenshots
-
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
-
-
-## Thanks
-
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
-
-## Copyright & License
-
-Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## What's next in the evolution of this blog?
+I want to spend more time writing things I've learnt than tinkering but here is my list
+- Script to generate new post based on title with correct date etc
+- 404 should automatically search my content to find posts
+- Related content should be displayed below each post
+- About me page with links to linked in, github (help out the stalkers)
+- Make sure it's not syncing content that hasn't changed to s3
