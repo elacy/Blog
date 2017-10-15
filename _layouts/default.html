@@ -67,7 +67,7 @@
 	{% if page.tipue-search %}
 	<script type="text/javascript">
 		$(document).ready(function() {
-			$('#tipue_search_input').keyup(function() {
+			$('#tipue_search_input').keyup(function(event) {
 				if($("#tipue_search_input").val() == ""){
 					$("#blog_content").fadeIn(200);
 					$("#tipue_search_content").fadeOut(200);
