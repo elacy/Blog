@@ -5,6 +5,7 @@ meta_description: "Eva Lacy, Technology and Politics"
 markdown: kramdown
 highlighter: pygments
 logo: false
+baseurl: /
 paginate: 15
 exclude: [Gemfile, buildspec.yml, LICENSE.txt, README.md]
 domain_name: 'https://www.lacy.ie'
