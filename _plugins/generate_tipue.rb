@@ -62,7 +62,7 @@ module Jekyll
 		safe true
 		
 		def generate(site)
-		    js_folder = 'assets/js'
+		    js_folder = '_site/assets/js'
 		    content_file_name = 'tipuesearch_content.js'
 		    content_path = File.join(js_folder, content_file_name)
 
