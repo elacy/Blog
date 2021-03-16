@@ -24,6 +24,7 @@
 require 'rubygems'
 require 'nokogiri'
 require 'json'
+require 'fileutils'
 module Jekyll
 	
 	#This object represents page information we will be writing to tipuesearch_content.js
@@ -63,6 +64,7 @@ module Jekyll
 		
 		def generate(site)
 		    js_folder = '_site/assets/js'
+			FileUtils.mkdir_p js_folder
 		    content_file_name = 'tipuesearch_content.js'
 		    content_path = File.join(js_folder, content_file_name)
 
