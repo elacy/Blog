@@ -43,7 +43,7 @@ module Jekyll
 				
 				renderer = Renderer.new(site, page)
 				html = renderer.convert(page.content.to_s)
-				@text= Nokogiri::HTML(html).text
+				@text= Nokogiri::HTML(html).text.gsub(/\{\%[^\%}]+%}/, "")
     		end
 			
 			def to_json
@@ -63,30 +63,15 @@ module Jekyll
 		safe true
 		
 		def generate(site)
-		    js_folder = '_site/assets/js'
-			FileUtils.mkdir_p js_folder
-		    content_file_name = 'tipuesearch_content.js'
-		    content_path = File.join(js_folder, content_file_name)
+			@site = site
 
-			target = File.open(content_path, 'w')
-			target.puts('var tipuesearch = {"pages": [')
-			
-			all_but_last, last = site.posts.docs[0..-2], site.posts.docs.last
-			
-			#Process all posts but the last one
-			all_but_last.each do |page|
-				tp_page = TipuePage.new(site, page)
-				target.puts(tp_page.to_json + ',')
-			end
-			
-			#Do the last
-			tp_page = TipuePage.new(site, last)
-			target.puts(tp_page.to_json)
-			
-			target.puts(']};')
-			target.close()
+			page = PageWithoutAFile.new(@site, site.source, "/assets/js", "tipuesearch_content.js")
+			pages = @site.posts.docs.map{ |post| TipuePage.new(@site, post).to_json }.join(",")
 
-			site.static_files << StaticFile.new(site, site.source, js_folder, content_file_name)
+			page.content = "var tipuesearch = {\"pages\": [ #{pages} ]};"
+			page.data["layout"] = nil
+
+			@site.pages << page
 		end
   end
 
