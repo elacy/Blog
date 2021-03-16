@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-exclude: [Gemfile, buildspec.yml, LICENSE.txt, README.md]
+exclude: [Gemfile, buildspec.yml, LICENSE.txt, README.md, sync.s3.sh]
 domain_name: 'https://www.lacy.ie'
 google_analytics: 'UA-66109085-1'
 plugins: [jekyll-paginate, jekyll-sitemap]

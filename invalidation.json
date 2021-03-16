@@ -1,0 +1,11 @@
+{
+  "Paths": {
+    "Quantity": 3,
+    "Items": [
+      "/feed.xml",
+      "/sitemap.xml",
+      "/"
+    ]
+  },
+  "CallerReference": "32845234"
+}
