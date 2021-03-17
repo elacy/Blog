@@ -8,7 +8,7 @@ tags:
   - Society
 ---
 
-Conformity is important for humanity, we need to learn to communicate in ways that seem less threatening to each other if we hope to maintain our fight against violence, however it's also important that our individual differences stil get a chance to shine especialy as our society becomes more hyper specialised. This post is about my struggles with being weird and how I've learned to fit in to a degree.<!-- more -->
+Conformity is important for humanity, we need to learn to communicate in ways that seem less threatening to each other if we hope to maintain our fight against violence, however it's also important that our individual differences stil get a chance to shine especially as our society becomes more hyper specialised. This post is about my struggles with being weird and how I've learned to fit in to a degree.<!-- more -->
 
 ### Learn the rules
 
