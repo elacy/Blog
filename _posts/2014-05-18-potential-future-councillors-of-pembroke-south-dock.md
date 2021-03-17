@@ -25,8 +25,8 @@ Here is a list of all the candidates running in the upcoming election, I took th
   * [Frank Kennedy][15] (Fianna Fail)
   * [James Humphreys][16] (Labour)
   * [Dermot Lacey][17] (Labour)
-  * [Kieran Binchy ][18](Fine Gael)
-  * [Paddy McCarta][19]n (Fine Gael)
+  * [Kieran Binchy][18](Fine Gael)
+  * [Paddy McCartan][19] (Fine Gael)
 
 <!-- more -->
 
@@ -502,21 +502,21 @@ I like that his election literature contains solid promises, I particularly like
  [1]: /assets/images/2014/dcc-393.jpg
  [2]: http://electionsireland.org/biographies.cfm?election=2014L&cons=5028&sort=alpha
  [3]: http://www.thejournal.ie/local-elections-lorraine-clifford-1468600-May2014/
- [4]: /potential-future-councillors-of-pembroke-south-dock#Marcin
- [5]: /potential-future-councillors-of-pembroke-south-dock#Nadine
- [6]: /potential-future-councillors-of-pembroke-south-dock#Anne
- [7]: /potential-future-councillors-of-pembroke-south-dock#Claire
- [8]: /potential-future-councillors-of-pembroke-south-dock#Sonya
- [9]: /potential-future-councillors-of-pembroke-south-dock#Lorraine
- [10]: /potential-future-councillors-of-pembroke-south-dock#Gerry
- [11]: /potential-future-councillors-of-pembroke-south-dock#Linda
- [13]: /potential-future-councillors-of-pembroke-south-dock#Mannix
- [14]: /potential-future-councillors-of-pembroke-south-dock#Chris
- [15]: /potential-future-councillors-of-pembroke-south-dock#Frank
- [16]: /potential-future-councillors-of-pembroke-south-dock#James
- [17]: /potential-future-councillors-of-pembroke-south-dock#Dermot
- [18]: /potential-future-councillors-of-pembroke-south-dock#Kieran
- [19]: /potential-future-councillors-of-pembroke-south-dock#Paddy
+ [4]: {{page.url}}#Marcin
+ [5]: {{page.url}}#Nadine
+ [6]: {{page.url}}#Anne
+ [7]: {{page.url}}#Claire
+ [8]: {{page.url}}#Sonya
+ [9]: {{page.url}}#Lorraine
+ [10]: {{page.url}}#Gerry
+ [11]: {{page.url}}#Linda
+ [13]: {{page.url}}#Mannix
+ [14]: {{page.url}}#Chris
+ [15]: {{page.url}}#Frank
+ [16]: {{page.url}}#James
+ [17]: {{page.url}}#Dermot
+ [18]: {{page.url}}#Kieran
+ [19]: {{page.url}}#Paddy
  [20]: https://www.facebook.com/pages/Marcin-Czechowicz-Independent-Candidate-for-Dublin-City-Council/1383774998538013
  [21]: http://jobseekersite.info/en/marcin_czechowicz__from_jobseekersite_info_is_running_as_a_candidate_in_the_upcoming_local_elections_for_dublin_city_council_/255/2/
  [22]: https://translate.google.ie/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fpoloniarazem.com%2Fportfolio-item%2Fmarcin-czechowicz-dublin-south-east-inner-city&edit-text=
