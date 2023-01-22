@@ -1,0 +1,27 @@
+---
+title: Why we shed load
+layout: post
+categories:
+  - Technology
+tags:
+  - Resilience
+---
+![](/assets/images/2023/01/22/turtle.jpg "Burden by Martin Fisch is licensed under CC BY-SA 2.0")
+
+The ability for an application to shed load when it is overloaded is critical for resilience but it's so often not fully understood. In this post I'll explain why it's important, when to shed load and how to shed it.<!-- more -->
+
+First let's talk about why. Every request your application processes consumes system resources, the less system resources are available the more the application has to ration those resources between the active requests. With enough requests equal rationing results in all requests failing your SLA. Eventually you reach 0% availability as the time to process exceeds timeouts or something critical breaks. Load shedding is about dropping some of the requests so that others succeed. You might reach 50% availability for your application instead of 0%.
+
+So how do you know when to shed the traffic? Well the breaking point of your application, that is the moment that shedding traffic keeps your availability higher than accepting it, occurs when the first system resource you depend on to process requests has run out of capacity. That resource is your bottleneck and you'll need a sensor that can detect or predict resource exhaustion accurately and quickly. Choosing a sensor is the most complex part of load shedding. If you are CPU bound you could use a utilisation metric but on Linux that's sampled every 5 seconds, that's a slow response time for detection so you will end up shedding traffic when you don't need to and not shedding traffic when you do. Instead you could try something like Pressure Stall Information, which is a Linux kernel feature that allows you to detect overload in 50ms (minimum tracking window is 500ms and it checks 10 times per tracking window).
+
+Translating this into an action isn't straight forward either. Do you shed all traffic when your breakpoint detection triggers? Do you shed low priority traffic? The trouble with shedding traffic is that you are using past data to influence the future. If you shed all or a portion of your traffic at your breaking point you'll end up with a sawtooth pattern in your resource utilisation as your breaking point alarm switches on, you shed traffic making it turn off which allows traffic in causing your breaking point alarm to trigger. What tends to be more effective is setting a TPS limit based on your breaking point sensor. When the sensor goes off, you reduce your TPS limit, every period of time when the sensor isn't going off and you have exhausted your TPS limit, you increase it by a small amount until your sensor detects the breaking point again.
+
+The problem with modulation is that it comes with some inefficiencies, if you know how close you are to the breaking point then modulation isn't necessary. What's more, if the type of traffic you are receiving changes or you have no past data, positioning your TPS limit becomes a lot easier if you can predict the breaking point rather than having to discover through trial and error. For example, if you are using an Intel CPU you can use the CPU cycles MSR to detect how close you are to the breaking point without having to reach it. This allows you to calculate the current CPU cycles per request which will allow you to better calculate your optimal TPS.
+
+How about dealing with low priority traffic? Well many services shed low priority traffic when they are close to their breaking point as a means of preventing you from reaching it. The problem with this method is that you end up shedding traffic unnecessarily. Until you actually reach your breaking point you shouldn't be shedding any traffic, even if it's low priority. You can address this with a queue. When you reach your TPS limit you add requests to your queue instead of processing it. Your queue should be ordered by priority. Once your queue is full drop the low priority, when a transaction can be let through through the highest priority request.
+
+Queues can be hazardous if you don't handle them well, if unbounded and FIFO during overload you can end up only processing requests that your client is likely to timeout on before it gets processed. If you can't switch to LIFO then you need to make sure that your queue has a time limit and/or a size limit. The major advantages to having a queue is creating the ability for you to order that queue in a custom way and successfully handling a small surge in traffic.
+
+So how you implement a TPS limit is important as well. Typically the best strategy is a token bucket. Which means you have a variable integer we call our bucket with a max value of tokens, and every period of time you add to the bucket. If a request wants to get through the bucket must have a token. If there is no token it can wait on the queue or be dropped. The reason you have a max value is that just because you are using 50% capacity for 3 time periods doesn't mean you can handle 250% on the fourth. Ideally you should be adding 1 token to the bucket every 1/n seconds where n is the number of TPS you want to allow through rather than adding all n at the start of the second to avoid spikes at the start of seconds. Ideally your TPS limiter should model precisely the resource it's trying to protect. 
+
+Learn something about load shedding today? Did I make any mistakes? Tell me in the comments, it will make my day.
