@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 exclude: [Gemfile, buildspec.yml, LICENSE.txt, README.md, sync.s3.sh]
 domain_name: 'https://www.lacy.ie'
-plugins: [jekyll-paginate, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-latex]
 excerpt_separator: "<!-- more -->"
 
 # Details for the RSS feed generator
